@@ -1,0 +1,44 @@
+﻿Equipo;NombreUsuario;UsuarioCompleto;TiempoEncendido;CPU;Nucleos;Hilos;RAM_GB;Disco;Uso_Disco
+PGUTIERREZ; pgutierrez;Maria del Pilar Gutierrez Anzoleaga;12 días, 3 horas, 34 minutos;Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz;4;4;3.88;C:: 237.84 GB;C:: 45.68%
+PCJRODRIGUEZ; jrodriguez;Jorge Humberto Rodriguez Machicao;28 días, 5 horas, 2 minutos;Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz;2;4;7.99;C:: 446.61 GB;C:: 38.81%
+JCALSINA; jcalsina;Juan Calsina Ramos;53 días, 5 horas, 52 minutos;Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz;2;4;7.89;C:: 222.86 GB;C:: 90.98%
+CRIVEROS; criveros;Claudia Leonor Riveros Queza;0 días, 23 horas, 20 minutos;11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz;4;8;7.79;C:: 476.28 GB;C:: 48.64%
+PCESOLANO; esolano;Edison Lizardo Solano Miranda;1 días, 6 horas, 24 minutos;Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz;2;4;3.7;C:: 223.52 GB;C:: 90.03%
+RLAZARTE; rlazarte;Ronald Edson Lazarte Lozano;15 días, 6 horas, 37 minutos;Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz;2;4;7.71;C:: 237.9 GB;C:: 98.99%
+VCAMARGO; vcamargo;Victor Hugo Camargo Aguilar;6 días, 14 horas, 32 minutos;Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz;2;4;5.88;C:: 237.81 GB;C:: 69.98%
+BPASTEN; bpasten;Boris Alberto Pastén Reynaga;4 días, 20 horas, 41 minutos;Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz;2;4;7.89;C:: 446.49 GB;C:: 60.33%
+ACHOQUE; achoque;Ariel Choque Dalenz;119 días, 5 horas, 30 minutos;Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz;2;4;7.88;C:: 237.84 GB | E:: 227.29 GB;C:: 55.59% | E:: 60.32%
+YSARAVIA; ysaravia;Yuhana Saravia Álvarez;5 días, 14 horas, 44 minutos;Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz;4;8;15.79;C:: 465.12 GB;C:: 91.54%
+OROXANA; rortega;Roxana Ortega Serrudo;19 días, 0 horas, 22 minutos;Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz;2;4;3.88;C:: 111.15 GB;C:: 66.46%
+PCAEGUINO; aeguino;Jose Alejandro Eguino Argandoña;22 días, 6 horas, 18 minutos;11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz;4;8;7.79;C:: 476.29 GB;C:: 60.39%
+MARCOESPINOZA; mespinoza;Marco Antonio Espinoza Huampu;8 días, 6 horas, 21 minutos;12th Gen Intel(R) Core(TM) i5-1235U;10;12;7.71;C:: 464.8 GB;C:: 46.82%
+SPACO; gjimenez;Gabriela Jimenez Linares;4 días, 6 horas, 31 minutos;Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz;4;4;7.88;C:: 232.26 GB | D:: 214.24 GB;C:: 56.25% | D:: 62.16%
+PCRCANAVIRI; rcanaviri;Richard Willy Canaviri Maman;5 días, 7 horas, 3 minutos;Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz;2;4;7.7;C:: 237.84 GB;C:: 35.96%
+PROGRAMADOR1;Sin sesiones activas;Sin sesiones activas;25 días, 22 horas, 27 minutos;Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz;2;4;7.9;C:: 465.1 GB;C:: 60.85%
+AAGUILAR; aaguilar;Alejandro Aguilar Sanchez;6 días, 4 horas, 14 minutos;Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz;2;4;7.7;C:: 297.52 GB | G:: 1382.37 GB;C:: 75.76% | G:: 70.68%
+PCDSUXO; dsuxo;Carlos Diego Suxo Palenque;0 días, 5 horas, 28 minutos;12th Gen Intel(R) Core(TM) i7-1255U;10;12;13.57;C:: 476 GB;C:: 93.45%
+PCSALACAP; lparchivo;Archivo La Paz;54 días, 6 horas, 24 minutos;Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz;2;4;7.88;C:: 118.6 GB;C:: 55.24%
+PCGLEIVA;GLeiva;Gonzalo Álvaro Leiva Poma;13 días, 16 horas, 54 minutos;13th Gen Intel(R) Core(TM) i7-1355U;10;12;15.73;C:: 476.13 GB;C:: 53.26%
+PCRNOVA; rnova;Ruth Rosminda Nova Corina;0 días, 7 horas, 14 minutos;Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz;2;4;7.89;C:: 476.28 GB;C:: 78.13%
+ABRAHAMAGUILAR; abrahama;Abraham Aguilar Marca;6 días, 7 horas, 16 minutos;11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz;4;8;15.65;C:: 237.29 GB | D:: 238.46 GB;C:: 64.51% | D:: 15.98%
+PCSISTEMAS4; rtinta;Rosario Elizabeth Tinta Huanto;0 días, 6 horas, 17 minutos;Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz;2;4;7.7;C:: 222.93 GB;C:: 39.97%
+PCIMENDIZABAL; imendizabal;Ivania Mendizabal Villarreal;1 días, 5 horas, 22 minutos;Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz;4;8;7.84;C:: 953.23 GB;C:: 16.66%
+BAAMBROCIO; bambrocio;Batseba Ambrocio Canchari;0 días, 0 horas, 43 minutos;13th Gen Intel(R) Core(TM) i3-1315U;6;8;7.65;C:: 476 GB;C:: 24.46%
+PCMGALVAN; mgalvan;Mory Galvan Peñaranda;20 días, 14 horas, 10 minutos;13th Gen Intel(R) Core(TM) i5-1335U;10;12;15.65;C:: 952.92 GB;C:: 20.04%
+PCHSALAS; hsalas;Hilda Getrudys Salas Hussy;1 días, 6 horas, 50 minutos;13th Gen Intel(R) Core(TM) i5-1335U;10;12;15.65;C:: 952.99 GB;C:: 35.01%
+PCEAP; eaparicio;Emma Lía Aparicio Pomar;0 días, 6 horas, 42 minutos;13th Gen Intel(R) Core(TM) i5-1335U;10;12;15.65;C:: 952.92 GB;C:: 55.37%
+PCAMEJIA; amejia;Álvaro Rafael Mejía Unzaga;5 días, 6 horas, 46 minutos;Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz;4;8;7.92;C:: 465.12 GB;C:: 39.22%
+PCJLIMACHI; jlimachi;Jhoel Elías Limachi Tinta;20 días, 3 horas, 49 minutos;Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz;4;4;3.88;C:: 222.93 GB;C:: 59.8%
+APALACIOS; apalacios;Alejandra Ingrid Palacios Patiño;6 días, 3 horas, 0 minutos;Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz;2;4;7.89;C:: 446.49 GB;C:: 35.77%
+PCYFLORES; yflores;Yara Flores;15 días, 5 horas, 59 minutos;12th Gen Intel(R) Core(TM) i3-1215U;6;8;15.73;C:: 476.3 GB;C:: 32.92%
+PCRTEJERINA; rtejerina;Rebeca Valeria Tejerina Alco;5 días, 0 horas, 34 minutos;12th Gen Intel(R) Core(TM) i3-1215U;6;8;15.73;C:: 476.3 GB;C:: 38.85%
+PCAAVENDAÑO; aavendano;Alejandra Mirna Avendaño Miranda;1 días, 6 horas, 30 minutos;12th Gen Intel(R) Core(TM) i3-1215U;6;8;15.73;C:: 476.3 GB;C:: 57.67%
+PCPMENDEZ; pmendez;Paola Andrea Méndez Aguilar;5 días, 14 horas, 59 minutos;12th Gen Intel(R) Core(TM) i3-1215U;6;8;15.73;C:: 476.3 GB;C:: 37.78%
+PCMROJAS; mrojas;Mauro Rojas Valencia;0 días, 6 horas, 44 minutos;13th Gen Intel(R) Core(TM) i7-1355U;10;12;15.65;C:: 930.55 GB;C:: 29.26%
+PCGBLACUTT; gblacutt;Silvia Gabriela Blacutt Lino;15 días, 7 horas, 9 minutos;Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz;4;8;11.89;C:: 446.25 GB;C:: 62.72%
+PCHQUISPE; hquispe;Henry Quispe Acarapi;8 días, 7 horas, 13 minutos;13th Gen Intel(R) Core(TM) i7-1355U;10;12;15.65;C:: 953.11 GB;C:: 17.43%
+PCGLUQUE; gluque;Guido Luque Romero;0 días, 2 horas, 56 minutos;Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz;2;4;3.88;C:: 111.15 GB | E:: 465.29 GB | W:: 476.94 GB;C:: 92.29% | E:: 85.4% | W:: 87.04%
+PBELTRAN; pbeltran;Ayda Paola Beltrán Velarde;5 días, 22 horas, 14 minutos;Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz;2;4;7.69;C:: 237.81 GB | D:: 0.1 GB | E:: 123.95 GB | F:: 341.7 GB;C:: 45.84% | D:: 67.77% | E:: 80.24% | F:: 44.06%
+DESKTOP-V6D1BH8; cgutierrez;Cisel Gutiérrez Flores;0 días, 6 horas, 23 minutos;Intel(R) Core(TM) i7-4600M CPU @ 2.90GHz;2;4;7.92;C:: 237.81 GB;C:: 48.12%
+LENOVOIDEAPADIN; azuazo;Allisón Zuazo Fernández;8 días, 6 horas, 33 minutos;11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz;4;8;11.8;C:: 237.68 GB | D:: 238.46 GB;C:: 34.24% | D:: 0.04%
+DESKTOP-0QMCOLO; pbecerra;Pablo Javier Becerra Vargas;6 días, 14 horas, 42 minutos;Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz;4;4;15.88;C:: 118.6 GB | D:: 465.76 GB;C:: 100% | D:: 8.28%
